@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: salmon;
+    background-image: linear-gradient(brown, darksalmon);
   }
   
   /* Make content area fill the entire browser window */
@@ -23,7 +23,8 @@ body {
   
   .title {
     font-size: 3rem;
-    color: brown;
+    color: blanchedalmond;
+    opacity: 0.5;
   }
 
   .rotate {
